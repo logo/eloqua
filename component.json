@@ -1,0 +1,18 @@
+{
+  "logo": "Eloqua",
+  "name": "eloqua",
+  "repo": "logo/eloqua",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": [
+    "index.css"
+  ],
+  "images": [
+    "images/logo-black.svg",
+    "images/logo-white.svg",
+    "images/logo.svg"
+  ],
+  "dependencies": {
+    "logo/logo": "*"
+  }
+}
